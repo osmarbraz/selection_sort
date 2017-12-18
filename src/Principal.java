@@ -59,7 +59,7 @@ public class Principal {
                     min = j;                                        //O(n)
                 }
             }
-            troca(A, min, i);                                       //O(n)
+            troca(A, min, i);                                       //Theta(n)
         }
     }
 
